@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "network management using netplan.io",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-netplan",
-  "project_page": "https://github.com/NTTCom-MS/eyp-netplan",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-netplan/issues",
+  "source": "https://github.com/SaltaIT/eyp-netplan",
+  "project_page": "https://github.com/SaltaIT/eyp-netplan",
+  "issues_url": "https://github.com/SaltaIT/eyp-netplan/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"},
     {"name":"puppetlabs/concat","version_requirement":">= 1.2.3 < 9.9.9"},
